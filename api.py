@@ -2,7 +2,7 @@ import requests
 import streamlit as st
 
 
-API_URL = "https://your-backend-service.onrender.com"
+API_URL = "https://tms-backend-for-render.onrender.com"
 
 
 def api_request(method, endpoint, **kwargs):
